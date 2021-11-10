@@ -1,0 +1,12 @@
+.conClases{
+border-style: dotted;
+}
+
+#conID{
+    border-style: dashed ;
+}
+
+#contenido1{
+    border-style: dashed;
+    width: 30%;
+}
